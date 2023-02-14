@@ -1,0 +1,78 @@
+body {
+    background-color: #ddefef;
+    color: #2d4b56;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: #76aaa5;
+    color:#ddefef;
+    margin: 0;
+    padding-top: .3em;
+    padding-bottom: .3em;
+}
+
+
+.main{
+    background-color: #94beba;
+    max-width: 750px;
+    height: auto;
+    margin-top: 0;
+
+
+}
+
+
+.profile{
+        display: grid;
+        grid-template-columns: 1fr 1fr .1fr;
+        column-gap: 5px;
+        margin-left: auto;
+        padding-top: .3em;
+        background-color: #a9ceca;
+
+}
+
+
+.container{
+
+    display: inline-flex;
+    background-color: #b5c273;
+    border:#2d4b56;
+    border-width: 1px;
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em;
+    text-align: left;
+   
+    
+}
+
+.upcomingEvents {
+
+    padding: .5em;
+}
+
+button {
+    background-color: #76aaa5 ;
+    border-style: dashed;
+    border-width: 1px;
+    border-color:#2d4b56;
+    color: white;
+    padding: .5em, 1em;
+}
+
+h3{
+
+
+}
+
+.container3{
+
+}
+
+
+/*other colors to use turq - 76aaa5 and green - b5c273 and off white c7ccc8*/
